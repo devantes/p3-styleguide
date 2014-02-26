@@ -1,0 +1,36 @@
+/* Your Website Styles */
+h2 {
+	color: orange;
+	font-size: 2em;
+}
+
+h3 {
+	color: green;
+	font-size: 1.5em;
+}
+
+h5 {
+	font-size: 1.25em;
+}
+/* Colors */
+.color-1,
+.color-2 {
+	border: 2px solid black;
+	float: left;
+	height: 50px;
+	width: 50px;
+	display:inline;
+}
+
+.color-1 {
+	background: orange;
+
+}
+.color-2 {
+	background: green;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
